@@ -1,10 +1,10 @@
-# Title RegEx Password Validation
+# RegEx Password Validation
 
-Introductory paragraph (replace this with your text)
+Regular Expressions! You many not know them; you may not love them, but what are they? In JavaScript (including many other language and programs such as Microsoft Excel), are pattern seeking expressions used to match character combinations in strings. There are many use cases for these awesome expressions; however, there are three general uses. Uses include validation, extraction, and replacement.
 
 ## Summary
 
-Regular Expressions! You many not know them; you may not love them, but what are they? In JavaScript (including many other language and programs such as Microsoft Excel), are pattern seeking expressions used to match character combinations in strings. There are many use cases for these awesome expressions; however, there are three general uses. Uses include validation, extraction, and replacement. In this short tutorial, we will cover a common implementation of regular expressions: password validation! Our expression is as follows.
+ In this short tutorial, we will cover a common implementation of regular expressions: password criteria validation! Our expression will look as follows:
 
 ![RegEx](photos/regex.png)
 
